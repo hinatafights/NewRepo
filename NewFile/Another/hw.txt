@@ -1,0 +1,4 @@
+> init Programming;
+> Programming = World;
+> display "Hello " + programming;
+> display "Hello " + World;
